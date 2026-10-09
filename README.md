@@ -172,3 +172,4 @@ docker run --rm mcp-server-twelve-data \
 
 This MCP server is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for details.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
